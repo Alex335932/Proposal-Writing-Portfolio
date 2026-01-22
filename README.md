@@ -1,5 +1,4 @@
 # Business-Writing-Portfolio
-Business Writing Portfolio
 
 Proposal Writing Portfolio — Alexander Messejnikov
 
