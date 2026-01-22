@@ -1,6 +1,6 @@
 # Proposal-Writing-Portfolio — Alexander Messejnikov
 
--Strategic writing that translates technical complexity into compliant and persuasive narratives.
+Strategic writing that translates technical complexity into compliant and persuasive narratives.
 
 Samples
 
