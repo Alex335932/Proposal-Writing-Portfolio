@@ -1,6 +1,4 @@
-# Proposal-Writing-Portfolio
-
-Proposal Writing Portfolio — Alexander Messejnikov
+# Proposal-Writing-Portfolio — Alexander Messejnikov
 
 -Strategic writing that translates technical complexity into compliant and persuasive narratives.
 
