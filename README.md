@@ -2,14 +2,15 @@
 Business Writing Portfolio
 
 Proposal Writing Portfolio — Alexander Messejnikov
+
 Strategic writing that translates technical complexity into compliant and persuasive value narratives.
 
 Samples
 
--Capability Statement (PDF)
+-Capability Statement
 
--SOP — String Replacement on an Acoustic Guitar (PDF)
+-SOP — String Replacement on an Acoustic Guitar
 
--SOP Design Justification (PDF)
+-SOP Design Justification
 
--Translating a Complex Concept Into a Q&A Brief — Hyperreality (PDF)
+-Translating a Complex Concept Into a Q&A Brief — Hyperreality
