@@ -9,4 +9,4 @@ Strategic writing that translates technical complexity into compliant and persua
 - SOP: Design Justification
 - Translating a Complex Concept Into a Q&A Brief — Hyperreality
 
-[Proposal Writing Portfolio Link](Alexander Messejnikov — Proposal Writing Portfolio.pdf)
+[Proposal Writing Portfolio Link] (Alexander Messejnikov — Proposal Writing Portfolio.pdf)
