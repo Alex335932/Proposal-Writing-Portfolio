@@ -2,3 +2,6 @@ title: Alexander Messejnikov
 description: Proposal Writing Portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
+
+show_downloads: false
+google_analytics:
