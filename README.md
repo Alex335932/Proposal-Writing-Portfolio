@@ -2,7 +2,7 @@
 
 Strategic writing that translates technical complexity into compliant, audience-focused narratives.
 
-## Samples
+## Sample Overview
 
 - Capability Statement: Proposal Writing
 - SOP: String Replacement on an Acoustic Guitar
