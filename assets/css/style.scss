@@ -1,8 +1,0 @@
----
----
-@import "{{ site.theme }}";
-
-/* This hides the default GitHub and Download buttons in the sidebar */
-.view-on-github, .downloads, header ul {
-    display: none !important;
-}
