@@ -10,8 +10,3 @@ Strategic writing that translates technical complexity into compliant, audience-
 - Translating a Complex Concept Into a Q&A Brief: Hyperreality
 
 [Download Portfolio](<Alexander Messejnikov — Proposal Writing Portfolio.pdf>)
-
----
-<p align="center">
-  <small><a href="https://github.com/alex-messejnikov/AMPPortfolio">Source Files (GitHub)</a></small>
-</p>
