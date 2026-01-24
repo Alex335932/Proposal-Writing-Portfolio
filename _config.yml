@@ -10,5 +10,6 @@ theme: jekyll-theme-minimal
 show_downloads: false
 
 github:
-  is_project_page: false
   repository_url: ""
+  zip_url: ""
+  tar_url: ""
