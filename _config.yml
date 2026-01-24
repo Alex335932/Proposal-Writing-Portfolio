@@ -10,7 +10,4 @@ theme: jekyll-theme-minimal
 show_downloads: false
 
 github:
-  is_project_page: false
-  repository_url: " "
-  owner_name: " "
-  owner_url: " "
+  repository_name: "Source Repository"
