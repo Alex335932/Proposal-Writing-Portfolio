@@ -11,3 +11,7 @@ Strategic writing that translates technical complexity into compliant, audience-
 
 [Download Portfolio](<Alexander Messejnikov — Proposal Writing Portfolio.pdf>)
 
+---
+<p align="center">
+  <small><a href="https://github.com/alex-messejnikov/AMPPortfolio">Source Files (GitHub)</a></small>
+</p>
