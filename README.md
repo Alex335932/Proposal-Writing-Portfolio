@@ -1,6 +1,6 @@
 # Proposal Writing Portfolio
 
-Strategic writing that translates technical complexity into compliant and persuasive narratives.
+Strategic writing that translates technical complexity into compliant, audience-focused narratives.
 
 ## Samples
 
