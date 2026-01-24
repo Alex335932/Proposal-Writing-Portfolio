@@ -12,6 +12,4 @@ Strategic writing that translates technical complexity into compliant, audience-
 [Download Portfolio](<Alexander Messejnikov — Proposal Writing Portfolio.pdf>)
 
 ---
-<p align="center">
-  <small><a href="https://github.com/your-username/your-repo-name">View Source Files on GitHub</a></small>
-</p>
+[Source Files (GitHub)](https://github.com/alex-messejnikov/your-repo-name)
