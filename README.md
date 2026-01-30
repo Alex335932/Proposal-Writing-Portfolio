@@ -1,6 +1,6 @@
 # Proposal Writing Portfolio
 
-Strategic writing that translates technical complexity into compliant, audience-focused documentation.
+Strategic writing that translates technical complexity into compliant, stakeholder-focused documentation.
 
 ## Sample Overview
 
