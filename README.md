@@ -9,4 +9,4 @@ Strategic writing that translates complexity into compliant, stakeholder-focused
 - SOP Design Justification: String Replacement on an Acoustic Guitar
 - Translating a Complex Concept Into a Q&A Brief: Hyperreality
 
-[View Portfolio (PDF)](<Alexander Messejnikov__Proposal Writing Portfolio.pdf>)
+[View Portfolio (PDF)](<Alexander Messejnikov__Writing Portfolio.pdf>)
