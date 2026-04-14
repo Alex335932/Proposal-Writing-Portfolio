@@ -1,4 +1,4 @@
-# Proposal Writing Portfolio
+# Writing Portfolio
 
 Strategic writing that translates technical complexity into compliant, stakeholder-focused documentation.
 
@@ -9,4 +9,4 @@ Strategic writing that translates technical complexity into compliant, stakehold
 - SOP Design Justification: String Replacement on an Acoustic Guitar
 - Translating a Complex Concept Into a Q&A Brief: Hyperreality
 
-[View Portfolio (PDF)](<Alexander Messejnikov — Proposal Writing Portfolio.pdf>)
+[View Portfolio (PDF)](<Alexander Messejnikov__Proposal Writing Portfolio.pdf>)
