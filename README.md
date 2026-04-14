@@ -4,7 +4,7 @@ Strategic writing that translates technical complexity into compliant, stakehold
 
 ## Sample Overview
 
-- Capability Statement: Proposal Writing
+- Capability Statement: Proposal Writing (Business Writing Sample)
 - SOP: String Replacement on an Acoustic Guitar
 - SOP Design Justification: String Replacement on an Acoustic Guitar
 - Translating a Complex Concept Into a Q&A Brief: Hyperreality
